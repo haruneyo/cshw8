@@ -1,5 +1,4 @@
 ﻿int[,] array = new int[3, 4];
-int[,] holder = array;
 FillArray(array, 0, 10);
 System.Console.WriteLine("The array is:");
 PrintArray(array);
